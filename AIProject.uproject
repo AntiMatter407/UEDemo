@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{661D8437-40C3-05F3-31F9-A3890B4D0AF9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AIProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
